@@ -1,0 +1,11 @@
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\bin\Debug\Dich vu sua chua nha v1.exe.config
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\bin\Debug\Dich vu sua chua nha v1.exe
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\bin\Debug\Dich vu sua chua nha v1.pdb
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich vu sua chua nha v1.csproj.AssemblyReference.cache
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich_vu_sua_chua_nha_v1.Properties.Resources.resources
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich vu sua chua nha v1.csproj.GenerateResource.cache
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich vu sua chua nha v1.csproj.CoreCompileInputs.cache
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich vu sua chua nha v1.exe
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich vu sua chua nha v1.pdb
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich vu sua chua nha v1.exe.config
+C:\Users\nhatq\OneDrive\Desktop\ASP\Dich vu sua chua nha v1\Dich vu sua chua nha v1\obj\Debug\Dich_vu_sua_chua_nha_v1.FrmChondichvu.resources
